@@ -49,9 +49,14 @@
 .Card {
   width: 50%;
   padding: 4rem;
+  min-height: 50vh;
 }
 
-.Card div {
+.MuiTypography-h5 {
+  margin-top: 2rem !important;
+}
+/* .Card div {
   height: 50vh;
   min-height: 50vh;
 }
+ */
